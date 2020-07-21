@@ -11,4 +11,4 @@ proc draw() {.exportc.} =
   rotateX(PI)
   rotateY(float(frameCount) * 0.02)
   model(heart)
-  fill(168,63,57)
+  fill(198,63,57)
