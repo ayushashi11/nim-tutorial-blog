@@ -1,4 +1,2 @@
-var num=5
-echo num
+let num=5
 num=8
-echo num
