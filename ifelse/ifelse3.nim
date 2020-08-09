@@ -1,6 +1,6 @@
 let condition = false
 
 if condition:
-   echo "inside if statement"
+   echo "inside if block"
 else:
-   echo "inside else statement"
+   echo "inside else block"
