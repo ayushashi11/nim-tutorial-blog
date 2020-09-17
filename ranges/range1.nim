@@ -1,2 +1,2 @@
-let r = 1..<5
+let r = 5..1
 echo r
