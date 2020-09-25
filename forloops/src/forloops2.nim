@@ -1,5 +1,7 @@
-let st = "I am a string."
+let s = "I am a string."
 var length = 0
-for _ in st:
-    length.inc
-echo "lentgh of the string '"&st&"' is "&($length)
+
+for _ in s:
+    length += 1
+
+echo "length of the string '",s ,"' is ", length
