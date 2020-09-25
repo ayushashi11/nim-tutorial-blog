@@ -1,3 +1,3 @@
-let sq=["hello", "!", "this", "is", "a", "sequence","."]
-for str in sq:
-    echo str 
+let st = "this is a string!"
+for ch in st:
+    echo ch

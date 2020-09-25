@@ -5,7 +5,7 @@ author        = "Anonymous"
 description   = "A new awesome nimble package"
 license       = "ISC"
 srcDir        = "src"
-bin           = @["forloops"]
+bin           = @["forloops", "forloops1", "forloops2", "forloops3"]
 binDir        = "web/js"
 backend       = "js"
 
