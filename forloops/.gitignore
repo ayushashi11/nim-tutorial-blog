@@ -1,3 +1,8 @@
 .vscode
-*/.vscode
 *.py
+web/**
+web
+web/*
+web/js/*
+web/*
+.mypy*
