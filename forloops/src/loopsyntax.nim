@@ -1,4 +1,2 @@
-#[
-for x in rang:
-    #somecode
-]#
+for someVariable in someIterable:
+    #some statement
