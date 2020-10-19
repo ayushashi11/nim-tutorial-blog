@@ -1,0 +1,2 @@
+while condition:
+    # some statements
