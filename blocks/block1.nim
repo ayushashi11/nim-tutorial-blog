@@ -1,9 +1,11 @@
-const NIMISGREAT = true
-if NIMISGREAT:
+const NIM_IS_GREAT = true
+
+if NIM_IS_GREAT:
     echo "Nim is Great"
 
-while not NIMISGREAT:
+while not NIM_IS_GREAT:
     echo "Nim should become better"
 
 block:
-    echo "the block says a value NIMISGREAT=", NIMISGREAT
+    echo "Inside a block."
+    echo "NIM_IS_GREAT = ", NIM_IS_GREAT
